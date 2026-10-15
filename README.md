@@ -1,14 +1,16 @@
 # Profile
 
-### Hi I'm Nishanth
+### Hi, I'm Nishanth
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Tech/Framework]**
-- 💬 Ask me about **[Your Core Expertise, e.g., TypeScript, Python, Cloud Architecture]**
-- 📫 How to reach me: **[Your Email/LinkedIn]**
+- 🔭 I’m currently working on....
+- 🌱 I’m currently learning Backend.
+- 💬 Ask me about **Web Applications, Computer Networks, System Design**
+- 📫 How to reach me: [nishanth336@gmail.com](mailto:nishanth336@gmail.com)
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Go
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend & DB:** Node.js, Express, PostgreSQL, Redis
-- **DevOps & Tools:** Docker, Git, AWS, GitHub Actions
+
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
+- **Backend & DB:** Node.js, Express, MongoDB
+- **DevOps & Tools:** Git, Linux, GitHub Actions, Vercel
+
