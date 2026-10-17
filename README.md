@@ -12,5 +12,4 @@
 - **Languages:** JavaScript, TypeScript, Python, C++
 - **Frontend:** HTML, CSS, React, Next.js, Tailwind CSS
 - **Backend & DB:** Node.js, Express, MongoDB
-- **DevOps & Tools:** Git, Linux, GitHub Actions, Vercel
-
+- **DevOps & Tools:** Git, Linux, GitHub Actions, Vercel.
