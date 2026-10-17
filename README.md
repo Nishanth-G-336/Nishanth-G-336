@@ -19,8 +19,8 @@
 
 <h1 align="center">### 🤝 Connect With Me</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://profile-mu-green.vercel.app/">
-    <img src="https://i.pinimg.com/1200x/4f/78/70/4f787090132f9b6d4a542690d0af5544.jpg" />
+    <img height="250" src="https://i.pinimg.com/1200x/4f/78/70/4f787090132f9b6d4a542690d0af5544.jpg" />
   </a>
 </p>
